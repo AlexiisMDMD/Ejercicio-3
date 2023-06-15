@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.AssemblyInfo.cs
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\bin\Debug\net7.0\Ejercicio #3.exe
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\bin\Debug\net7.0\Ejercicio #3.deps.json
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\bin\Debug\net7.0\Ejercicio #3.runtimeconfig.json
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\bin\Debug\net7.0\Ejercicio #3.dll
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\bin\Debug\net7.0\Ejercicio #3.pdb
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.dll
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\refint\Ejercicio #3.dll
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.pdb
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\Ejercicio #3.genruntimeconfig.cache
+C:\Users\alexi\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\WordSpace for C#\Ejercicio #3\Ejercicio #3\obj\Debug\net7.0\ref\Ejercicio #3.dll
